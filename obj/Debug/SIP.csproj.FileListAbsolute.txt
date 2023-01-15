@@ -1,0 +1,188 @@
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.csprojAssemblyReference.cache
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmHome.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmLogin.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmPeminjaman.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmPengembalian.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.Properties.Resources.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.csproj.GenerateResource.cache
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.csproj.CoreCompileInputs.cache
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\SIP.exe.config
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\SIP.exe
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\SIP.pdb
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\BouncyCastle.Crypto.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\Google.Protobuf.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\K4os.Compression.LZ4.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\K4os.Hash.xxHash.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\MySql.Data.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\MySqlConnector.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Buffers.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Memory.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Numerics.Vectors.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\Ubiety.Dns.Core.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\ZstdNet.dll
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\Google.Protobuf.pdb
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\Google.Protobuf.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\K4os.Compression.LZ4.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\K4os.Hash.xxHash.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\MySql.Data.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\MySqlConnector.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Buffers.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Memory.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Numerics.Vectors.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.csproj.CopyComplete
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.exe
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.pdb
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmDashboard.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmSideMenu1.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmSideMenu2.resources
+G:\Pelajaran\Pemrograman Visual\Repository\SIP\obj\Debug\SIP.frmLaporan.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\SIP.exe.config
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\SIP.exe
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\SIP.pdb
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\MySqlConnector.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Memory.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\ZstdNet.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\Google.Protobuf.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\MySqlConnector.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Memory.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.formkoneksi.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmDashboard.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmHome.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmLaporan.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmLogin.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmPeminjaman.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmPengembalian.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmSideMenu1.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.frmSideMenu2.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.Properties.Resources.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.csproj.CopyComplete
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.exe
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\obj\Debug\SIP.pdb
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\SIP.exe.config
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\SIP.exe
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\SIP.pdb
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\MySqlConnector.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Memory.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\ZstdNet.dll
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\Google.Protobuf.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\MySqlConnector.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Memory.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.formkoneksi.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmDashboard.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmHome.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmLaporan.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmLogin.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmPeminjaman.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmPengembalian.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmSideMenu1.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.frmSideMenu2.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.Properties.Resources.resources
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.csproj.CopyComplete
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.exe
+C:\Users\ACER\Documents\latihan pemrograman 2\New folder\New folder\New folder\obj\Debug\SIP.pdb
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\SIP.exe.config
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\SIP.exe
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\SIP.pdb
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\BouncyCastle.Crypto.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\Google.Protobuf.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\K4os.Compression.LZ4.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\K4os.Hash.xxHash.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\MySql.Data.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\MySqlConnector.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Buffers.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Memory.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Numerics.Vectors.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\Ubiety.Dns.Core.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\ZstdNet.dll
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\Google.Protobuf.pdb
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\Google.Protobuf.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\K4os.Compression.LZ4.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\K4os.Hash.xxHash.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\MySql.Data.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\MySqlConnector.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Buffers.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Memory.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Numerics.Vectors.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.csproj.AssemblyReference.cache
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.csproj.SuggestedBindingRedirects.cache
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.formkoneksi.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmDashboard.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmHome.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmLaporan.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmLogin.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmPeminjaman.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmPengembalian.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmSideMenu1.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.frmSideMenu2.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.Properties.Resources.resources
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.csproj.GenerateResource.cache
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.csproj.CoreCompileInputs.cache
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.csproj.CopyComplete
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.exe
+E:\download\SIP-master\TugasBesar_Fathur_Bimo\obj\Debug\SIP.pdb
